@@ -1,0 +1,13 @@
+Activate the environment¶
+Before you work on your project, activate the corresponding environment:
+
+. venv/bin/activate
+
+
+ngrok. Found at ~/Applications
+
+From the Applications folder launch: 
+
+./ngrok http PORTNUM
+
+Then give out the url as shown.
